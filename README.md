@@ -1,6 +1,9 @@
 # Bookmarks
 
 ## Computer Science
+### DevOps, SysOps
+- [SysAdmin tests](https://github.com/trimstray/test-your-sysadmin-skills)
+
 ### General
 - [A brief history of the UUID](https://segment.com/blog/a-brief-history-of-the-uuid/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
