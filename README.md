@@ -48,5 +48,8 @@
 - [Dealing with Hard Problems](https://artofproblemsolving.com/articles/hard-problems)
 - [Books to help you answer big questions about yourself](https://ideas.ted.com/books-to-help-you-answer-big-questions-about-yourself)
 
+### Mindfulness
+- [ZenHabits - Simplicity and mindfulness in the daily chaos](https://zenhabits.net/)
+
 ### Psychology
 - [Fuckup Book](http://fuckupnights.com/wp-content/uploads/2015/08/Fuckup-Book-english-OK-FUN.pdf)
