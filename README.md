@@ -47,6 +47,7 @@
 ### General
 - [Dealing with Hard Problems](https://artofproblemsolving.com/articles/hard-problems)
 - [Books to help you answer big questions about yourself](https://ideas.ted.com/books-to-help-you-answer-big-questions-about-yourself)
+- [Management for developers](https://speakerdeck.com/mrsasha/management-for-developers)
 
 ### Mindfulness
 - [ZenHabits - Simplicity and mindfulness in the daily chaos](https://zenhabits.net/)
