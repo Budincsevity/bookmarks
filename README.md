@@ -42,6 +42,7 @@
 ## Fun
 - [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 - [Good Recommendations](http://abyjames.com/projects/recommendations/)
+- [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 
 ## Soft Skills
 ### General
