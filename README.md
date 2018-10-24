@@ -1,6 +1,9 @@
 # Bookmarks
 
 ## Computer Science
+### Algorithm
+- [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf)
+
 ### DevOps, SysOps
 - [SysAdmin tests](https://github.com/trimstray/test-your-sysadmin-skills)
 
