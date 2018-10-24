@@ -3,6 +3,9 @@
 ## Computer Science
 ### Algorithm
 - [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [The BitTorrent Protocol Specification](http://www.bittorrent.org/beps/bep_0003.html)
+- [Ask HN: What's your favorite elegant/beautiful algorithm?](https://news.ycombinator.com/item?id=18236396)
 
 ### DevOps, SysOps
 - [SysAdmin tests](https://github.com/trimstray/test-your-sysadmin-skills)
