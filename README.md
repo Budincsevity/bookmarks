@@ -42,7 +42,7 @@
 - [GraphQL vs REST: Overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/)
 - [What happens when...](https://github.com/alex/what-happens-when#is-it-a-url-or-a-search-term)
 - [Web Scraping](http://scraping.pro/)
-
+- [Spring, the Kotlin and Functional Way](https://www.youtube.com/watch?v=MUGS0i-JXZU)
 ## Electronics
 - [Homemade GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
 
