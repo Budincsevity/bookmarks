@@ -41,6 +41,7 @@
 ### Web
 - [GraphQL vs REST: Overview](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/)
 - [What happens when...](https://github.com/alex/what-happens-when#is-it-a-url-or-a-search-term)
+- [Web Scraping](http://scraping.pro/)
 
 ## Electronics
 - [Homemade GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
