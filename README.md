@@ -27,6 +27,7 @@
 
 ### Math
 - [Derivatives are Linear](https://codesmoothie.com/blog/derivatives-are-linear.html)
+- [ALL IN ONE MATHEMATICS CHEAT SHEET](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 
 ### Regex
 - [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
