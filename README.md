@@ -24,6 +24,7 @@
 - [Machine Learning Algorithms: Which One to Choose for Your Problem](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
 - [Pandas Cheat Sheet](https://mycheatsheets.com/pandas)
 - [Building a Deep Neural Network to play FIFA 18](https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675)
+- [Rules of Machine Learning:Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ### Math
 - [Derivatives are Linear](https://codesmoothie.com/blog/derivatives-are-linear.html)
